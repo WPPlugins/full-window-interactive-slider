@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+  
+      .dummy{
+position:absolute;
+max-width:50px;
+max-height: 50px;
+      }
+.fwms_work_area, .fwms_slots{
+  position: relative;
+  float: left;
+  width: 100%;
+}
